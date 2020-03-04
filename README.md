@@ -1,2 +1,2 @@
 # store-assets
-Static assets for hosting
+Static assets of store-manager for hosting
